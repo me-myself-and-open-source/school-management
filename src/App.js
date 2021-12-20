@@ -15,7 +15,7 @@ function App() {
 	}, [location])
 
 	return (
-		<div className="w-screen min-h-screen bg-blue-50 flex overflow-y-scroll"> {/* remove bg */}
+		<div className="w-screen h-screen bg-blue-50 flex overflow-y-scroll"> {/* remove bg */}
 
 			{location.pathname !== "/" && <Sidebar/>}
 

@@ -16,7 +16,7 @@ import SiteLogo from "./ui/SiteLogo"
 
 function Sidebar() {
     return (
-        <div className="bg-white min-h-screen w-[300px] flex flex-col sticky top-0">
+        <div className="bg-white h-screen w-[300px] flex flex-col sticky top-0">
             <div className="flex justify-center my-10 mx-8">
                 <SiteLogo />
             </div>
