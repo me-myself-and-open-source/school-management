@@ -1,3 +1,6 @@
+# Credits
+This is my implementation of a design I found [here](https://www.behance.net/gallery/113618267/Room-4010-(LMS)) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
